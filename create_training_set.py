@@ -14,7 +14,7 @@ import json
 import urllib2
 
 source_dir = '/home/utpal/Downloads/ToCat/'
-output_dir = '/home/utpal/bcnn/json/'
+output_dir = '/home/utpal/bcnn/training/'
 replacements = [ (':', ' - '), (' and ', ' & '), ('/', '-')]
 API_KEY = 'AIzaSyAbPoAtWdCPp3rXF9bII3WJX3q2SbF_tdo'
 
